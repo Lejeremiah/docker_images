@@ -7,6 +7,10 @@
 ```
 docker pull jerem1ah/ssti_smarty
 ```
+###### #ctf_php73_rce
+```
+docker pull jerem1ah/php73_rce
+```
 ###### #ctf_php73_rce2
 ```
 docker pull jerem1ah/php73_rce2
